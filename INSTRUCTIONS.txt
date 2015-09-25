@@ -1,0 +1,6 @@
+to play the game, open up SuperBird.exe (in this folder)
+
+click play to start the game
+
+
+use the up arrow to go 'fly' up in the game. 
